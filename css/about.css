@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;}
+#contact-section{
+    background: url(../about%20us.jpg);
+     background-size: cover;
+    height:1100px;
+        width: 800px%;
+
+    
+    
+    
+    
+}.text{
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+    padding-top: 20px;
+    
+}.sakib{
+    color: white;
+    padding-left:180px;
+    font-size: 20px;
+    
+    
+}.name{
+    height: 60px;
+    width: 500px;
+    color:red;
+    padding-left: 120px;
+    font-size: 15px;
+    
+    
+}
+        

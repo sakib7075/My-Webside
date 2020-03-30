@@ -1,0 +1,80 @@
+{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;}
+html,body{
+    fornt-family: Bebas neue;
+    fornt-size: 14px;
+    fornt-weght: normal;
+    height:100%;
+    background: url(../about.jpeg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url(../about.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow-y: auto;
+}
+.nev{
+    width: 350px;
+    height: auto;
+    position: absolute;
+    height: auto;
+    top: 20%;
+    left:0;
+}
+.nev a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: bold;
+    width: 100%;
+    height:90px;
+    margin: 5px 0;
+    float: left;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    line-height: 90px;
+    text-align: center;
+}
+.nev a:hover{
+    background-color: white;
+    color: black;
+}
+.content{
+    position: absolute;
+    width: 990px;
+   min-height:700px;
+    height: auto;
+    
+    right: 0;
+    top:10%;
+
+}
+.home{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: white;
+    font-family: verdana;
+}
+.home h1 {
+    font-size: 50px;
+        padding-right: 20px;
+    border-bottom: 1px solid white;
+    
+}
+.home h3 {
+    font-size: 28px;
+    padding:5px o;
+    opacity: 0.6;
+}
